@@ -1,13 +1,13 @@
 
-# _{My First Webpage}_
+# _My First Webpage_
 
-#### _{Week One Epicodus Practice}, {03.17.2020}_
+#### _Week One Epicodus Practice, 03.17.2020_
 
-#### By _**{Christine Augustine}**_
+#### By _**Christine Augustine**_
 
 ## Description
 
-_{This is a detailed description of your application. Its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }_
+This is my first webpage.
 
 ## Setup/Installation Requirements
 
@@ -16,10 +16,7 @@ Clone my github repository from your computer's Terminal (make sure you are on y
 * cd desktop
 * git clone https://github.com/christinereina/epicodus-myfirstwebpage
 
-Go to the epicodus-myfirstwebpage folder from your Terminal
-* cd epicodus-myfirstwebpage
-
-Type in open my-first-webpage.html from your Terminal this will open my first webpage in an HTML browser
+Open folder and drag epicodus-myfirstwebpage.html into your preferred web browser
 
 ## Known Bugs
 
